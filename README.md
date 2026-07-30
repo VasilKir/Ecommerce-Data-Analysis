@@ -31,4 +31,4 @@ This project analyzes e-commerce sales and customer behavior using SQL, Python, 
 
 ![Dashboard](Tableau%20Portfolio.png)
 
-🔗 🔗 [View Tableau Dashboard](https://public.tableau.com/views/Portfolio_17846627926980/Dashboard1)
+ 🔗 [View Tableau Dashboard](https://public.tableau.com/views/Portfolio_17846627926980/Dashboard1)
