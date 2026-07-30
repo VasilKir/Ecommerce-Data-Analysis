@@ -27,4 +27,8 @@ This project analyzes e-commerce sales and customer behavior using SQL, Python, 
 - `Portfolio.ipynb` – Python analysis
 - `README.md` – Project description
 
-🔗 🔗 [Tableau Dashboard](https://public.tableau.com/views/Portfolio_17846627926980/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Dashboard Preview
+
+![Dashboard](Tableau%20Portfolio.png)
+
+🔗 🔗 [View Tableau Dashboard](https://public.tableau.com/views/Portfolio_17846627926980/Dashboard1)
